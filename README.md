@@ -19,6 +19,7 @@ It is a web application for “Travel Thru Air” using servlets to support the 
 6.Edit line number 18 with your password created during mysql installation
 
 7.Add the following jar files in the project:
+
    jsp-api-2.2.jar
    
    jstl-1.2.jar
@@ -26,7 +27,7 @@ It is a web application for “Travel Thru Air” using servlets to support the 
    mysql-connector-java-8.0.13.jar
    
    servlet-api-2.5
-
+   
 7.Connect mysql
 
 8.Run home.jsp
