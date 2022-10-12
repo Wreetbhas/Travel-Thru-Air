@@ -28,6 +28,6 @@ It is a web application for “Travel Thru Air” using servlets to support the 
    
    servlet-api-2.5
    
-7.Connect mysql
+8.Connect mysql
 
-8.Run home.jsp
+9.Run home.jsp
