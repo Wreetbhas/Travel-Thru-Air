@@ -7,10 +7,17 @@ It is a web application for “Travel Thru Air” using servlets to support the 
 Prerequisites for running this web application:
 
 1.install eclipse for java ee
+
 2.install tomcat 9 and configure it with eclipse
+
 3.install mysql
+
 4.create a database "my_flightsdb" in mysql
+
 5.create a table flights(id int AI PK, departure_city varchar(120), arrival_city varchar(120), discount int, cost int, start_time time, end_time time, departure_time       time, arrival_time time
+
 6.Edit line number 18 with your password created during mysql installation
+
 7.Connect mysql
+
 8.Run home.jsp
