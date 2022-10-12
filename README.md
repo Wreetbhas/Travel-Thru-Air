@@ -4,7 +4,7 @@ It is a web application for “Travel Thru Air” using servlets to support the 
 2. A user may search for flights, given a departure city, time and an arrival city. The results must display the departure city, the arrival city, the total cost.
 
 
-Prerequisites for running this web application:
+**Prerequisites for running this web application:**
 
 1.install eclipse for java ee
 
